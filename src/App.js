@@ -12,7 +12,7 @@ class App extends Component {
         </header>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
-          1. OK Made the change now! Again with PMDK now
+          1. changes OK Made the change now! Again with PMDK now
           2Making another change to my code optimized for Apache Pass, this should trigger Jenkins build, and then launch app
         </p>
         
